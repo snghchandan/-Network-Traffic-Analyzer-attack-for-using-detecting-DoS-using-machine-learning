@@ -1,0 +1,2 @@
+# -Network-Traffic-Analyzer-attack-for-using-detecting-DoS-using-machine-learning
+To safeguard our Systems from DoS Attack we had developed a software, 'Network Traffic Analyzer for Detecting DoS Attack using Machine Learning'.First, we had generated normal traffic, DoS traffic and captured them by using Wireshark. Then, the Captured data is converted into two different CSV files. Next, we performed the following steps. 1) Import Data. 2) Clean Data.3) Split the Data into Training/Test sets. 4) Create a Model. 5) Train the Model. 6) Make Predictions. 7) Evaluate and Improve.
